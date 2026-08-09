@@ -1,0 +1,11 @@
+portal.zip
+
+# Temporary archive
+portal.zip
+
+# CodeIgniter runtime files
+application/cache/*
+application/logs/*
+
+# Uploaded/generated files
+uploads/*
